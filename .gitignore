@@ -1,1 +1,6 @@
 venv
+*.csv
+*.rtf
+*.numbers
+db.*
+demo
